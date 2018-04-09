@@ -558,3 +558,145 @@ Session ID: 91cf292e9e5e7f2f64457cdd9948536a
 2018-04-09 17:11:21,446 INFO  [Log] X 
 2018-04-09 17:11:21,446 INFO  [Log] X 
 2018-04-09 17:11:21,446 INFO  [Log] X 
+2018-04-09 17:35:39,472 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:35:39,472 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:35:39,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Chrome       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:35:39,472 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:35:39,472 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:35:40,203 INFO  [Log] Excel sheet opened 
+2018-04-09 17:35:40,203 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:35:43,283 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 17:35:43,287 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:35:55,748 INFO  [Log] Web application launched successfully 
+2018-04-09 17:35:55,796 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 17:35:57,997 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 17:35:58,031 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:35:58,068 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:35:58,178 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 17:35:58,190 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:35:58,222 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:35:58,277 INFO  [Log] test is entered in Password text box 
+2018-04-09 17:35:58,289 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 17:35:59,981 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 17:36:20,087 ERROR [Log] nav-user button is not found on the Home Page 
+2018-04-09 17:36:20,099 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:36:20,099 INFO  [Log] X 
+2018-04-09 17:36:20,099 INFO  [Log] X 
+2018-04-09 17:36:20,100 INFO  [Log] X 
+2018-04-09 17:36:20,100 INFO  [Log] X 
+2018-04-09 17:36:20,270 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:36:20,270 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:36:20,271 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Firefox       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:36:20,271 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:36:20,271 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:36:20,327 INFO  [Log] Excel sheet opened 
+2018-04-09 17:36:20,327 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:36:24,291 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 17:36:24,299 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:36:37,801 INFO  [Log] Web application launched successfully 
+2018-04-09 17:36:37,844 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 17:36:40,756 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 17:36:40,786 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:36:40,843 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:36:40,899 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 17:36:40,907 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:36:41,033 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:36:41,088 INFO  [Log] test is entered in Password text box 
+2018-04-09 17:36:41,100 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 17:36:42,485 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 17:37:02,521 ERROR [Log] nav-user button is not found on the Home Page 
+2018-04-09 17:37:02,523 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:37:02,523 INFO  [Log] X 
+2018-04-09 17:37:02,523 INFO  [Log] X 
+2018-04-09 17:37:02,523 INFO  [Log] X 
+2018-04-09 17:37:02,523 INFO  [Log] X 
+2018-04-09 21:15:31,040 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:15:31,041 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:15:31,041 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Chrome       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 21:15:31,041 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:15:31,041 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:15:31,479 INFO  [Log] Excel sheet opened 
+2018-04-09 21:15:31,479 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 21:15:34,187 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 21:15:34,191 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 21:15:41,209 INFO  [Log] Web application launched successfully 
+2018-04-09 21:15:41,231 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 21:15:42,463 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 21:15:42,477 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 21:15:42,516 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 21:15:42,566 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 21:15:42,578 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 21:15:42,607 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 21:15:42,640 INFO  [Log] test is entered in Password text box 
+2018-04-09 21:15:42,654 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 21:15:43,608 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 21:16:03,671 ERROR [Log] Text Welcome Back is not found 
+2018-04-09 21:16:03,678 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 21:16:03,678 INFO  [Log] X 
+2018-04-09 21:16:03,678 INFO  [Log] X 
+2018-04-09 21:16:03,678 INFO  [Log] X 
+2018-04-09 21:16:03,678 INFO  [Log] X 
+2018-04-09 21:16:26,790 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:16:26,790 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:16:26,791 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Chrome       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 21:16:26,791 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:16:26,791 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:16:27,200 INFO  [Log] Excel sheet opened 
+2018-04-09 21:16:27,200 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 21:16:29,785 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 21:16:29,790 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 21:16:34,363 INFO  [Log] Web application launched successfully 
+2018-04-09 21:16:34,383 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 21:16:37,607 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 21:16:37,621 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 21:16:37,658 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 21:16:37,708 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 21:16:37,720 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 21:16:37,752 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 21:16:37,784 INFO  [Log] test is entered in Password text box 
+2018-04-09 21:16:37,797 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 21:16:38,840 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 21:16:58,899 ERROR [Log] Text Welcome Back is not found 
+2018-04-09 21:16:59,325 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Test Email']"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.31.143', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 57694cf6dec5b5c72afce6558299d73f
+*** Element info: {Using=xpath, value=//*[text()='Test Email']} 
+2018-04-09 21:16:59,332 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 21:16:59,332 INFO  [Log] X 
+2018-04-09 21:16:59,332 INFO  [Log] X 
+2018-04-09 21:16:59,332 INFO  [Log] X 
+2018-04-09 21:16:59,332 INFO  [Log] X 
+2018-04-09 21:18:35,306 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:18:35,306 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:18:35,306 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Chrome       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 21:18:35,306 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:18:35,306 INFO  [Log] **************************************************************************************** 
+2018-04-09 21:18:35,693 INFO  [Log] Excel sheet opened 
+2018-04-09 21:18:35,693 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 21:18:38,263 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 21:18:38,267 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 21:18:43,150 INFO  [Log] Web application launched successfully 
+2018-04-09 21:18:43,170 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 21:18:45,032 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 21:18:45,047 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 21:18:45,084 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 21:18:45,134 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 21:18:45,147 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 21:18:45,178 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 21:18:45,211 INFO  [Log] test is entered in Password text box 
+2018-04-09 21:18:45,223 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 21:18:46,169 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 21:18:46,185 INFO  [Log] Text Welcome Back is found 
+2018-04-09 21:18:46,204 INFO  [Log] Click action is perfromed on LogOut button 
+2018-04-09 21:18:46,264 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 21:18:46,264 INFO  [Log] X 
+2018-04-09 21:18:46,264 INFO  [Log] X 
+2018-04-09 21:18:46,264 INFO  [Log] X 
+2018-04-09 21:18:46,264 INFO  [Log] X 

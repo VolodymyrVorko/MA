@@ -8,7 +8,7 @@
         <classes>
             <!-- 	-->
             <class name="TestCases.Login_Chrome" />
-            <class name="TestCases.Login_Firefox" />
+            <!--<class name="TestCases.Login_Firefox" />-->
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

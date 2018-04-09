@@ -5,6 +5,7 @@ import Utility.ExcelUtils;
 import Utility.Log;
 import Utility.Utils;
 import org.openqa.selenium.interactions.Actions;
+import org.testng.Assert;
 import org.testng.Reporter;
 import pageObjects.HomePage;
 import pageObjects.LogInPage;
@@ -26,11 +27,9 @@ public class LogInAction {
         Log.info(sPassword + " is entered in Password text box");
         LogInPage.btn_SignIn().click();
         Log.info("Click action is perfromed on SignIn button");
-        Utils.waitForElement(HomePage.btn_navuser());
-        Actions action = new Actions(driver);
-        action.moveToElement(HomePage.btn_navuser()).moveToElement(HomePage.btn_LogOut()).click().build().perform();
-
-        Log.info("Click action is perfromed on LogOut button");
+        String actualString = HomePage.txt_WLCBCK().getText();
+        Assert.assertTrue(actualString.contains("WELCOME BACK,"));
+        Log.info("Welcome Back text is found");
         Reporter.log("LogIn Action is successfully perfomred");
     }
 

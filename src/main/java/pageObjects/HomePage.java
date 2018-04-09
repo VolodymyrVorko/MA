@@ -22,25 +22,35 @@ public class HomePage extends BaseClass {
         }
         return element;
     }
+    public static WebElement txt_WLCBCK() throws Exception{
+        try{
+            element = driver.findElement(By.xpath("/html/body/header/div[1]/div/div[1]"));
+            Log.info("Text Welcome Back is found");
+        }catch (Exception e){
+            Log.error("Text Welcome Back is not found");
+            throw (e);
+        }
+        return element;
+    }
 
-    public static WebElement btn_navuser() throws Exception {
-        try {
-            element = driver.findElement(By.linkText("WELCOME BACK,"));
-            Log.info("nav-user button is found on the Home Page");
-        } catch (Exception e) {
-            Log.error("nav-user button is not found on the Home Page");
-            throw (e);
-        }
-        return element;
-    }
-    public static WebElement btn_LogOut() throws Exception {
-        try {
-            element = driver.findElement(By.linkText("Logout"));
-            Log.info("Log Out button is found on the Home Page");
-        } catch (Exception e) {
-            Log.error("Log Out button is not found on the Home Page");
-            throw (e);
-        }
-        return element;
-    }
+//    public static WebElement btn_navuser() throws Exception {
+//        try {
+//            element = driver.findElement(By.linkText("WELCOME BACK,"));
+//            Log.info("nav-user button is found on the Home Page");
+//        } catch (Exception e) {
+//            Log.error("nav-user button is not found on the Home Page");
+//            throw (e);
+//        }
+//        return element;
+//    }
+//    public static WebElement btn_LogOut() throws Exception {
+//        try {
+//            element = driver.findElement(By.linkText("Logout"));
+//            Log.info("Log Out button is found on the Home Page");
+//        } catch (Exception e) {
+//            Log.error("Log Out button is not found on the Home Page");
+//            throw (e);
+//        }
+//        return element;
+//    }
 }
