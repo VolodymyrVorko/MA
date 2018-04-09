@@ -1,117 +1,560 @@
-2018-04-09 14:40:05,697 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:40:05,698 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:40:05,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 btn_LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 14:40:05,698 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:40:05,698 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:40:06,050 INFO  [Log] Excel sheet opened 
-2018-04-09 14:40:06,050 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 14:40:08,757 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 14:40:08,763 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 14:40:12,873 INFO  [Log] Web application launched successfully 
-2018-04-09 14:40:12,891 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 14:40:14,400 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 14:40:14,400 INFO  [Log] X 
-2018-04-09 14:40:14,400 INFO  [Log] X 
-2018-04-09 14:40:14,400 INFO  [Log] X 
-2018-04-09 14:40:14,402 INFO  [Log] X 
-2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:43:28,146 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:43:28,513 INFO  [Log] Excel sheet opened 
-2018-04-09 14:43:28,513 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 14:43:31,207 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 14:43:31,214 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 14:43:38,232 INFO  [Log] Web application launched successfully 
-2018-04-09 14:43:38,249 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 14:43:40,317 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 14:43:40,317 INFO  [Log] X 
-2018-04-09 14:43:40,317 INFO  [Log] X 
-2018-04-09 14:43:40,317 INFO  [Log] X 
-2018-04-09 14:43:40,318 INFO  [Log] X 
-2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:51:39,823 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                        $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:51:40,180 INFO  [Log] Excel sheet opened 
-2018-04-09 14:51:40,180 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 14:51:42,844 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 14:51:42,857 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 14:51:46,835 INFO  [Log] Web application launched successfully 
-2018-04-09 14:51:46,854 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 14:51:48,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 14:51:48,473 INFO  [Log] X 
-2018-04-09 14:51:48,473 INFO  [Log] X 
-2018-04-09 14:51:48,473 INFO  [Log] X 
-2018-04-09 14:51:48,475 INFO  [Log] X 
-2018-04-09 14:53:48,595 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
-2018-04-09 14:54:22,215 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
-2018-04-09 14:54:45,583 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
-2018-04-09 14:55:05,325 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
-2018-04-09 14:57:35,660 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
-2018-04-09 14:59:26,396 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:59:26,397 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:59:26,397 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                        $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 14:59:26,397 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:59:26,397 INFO  [Log] **************************************************************************************** 
-2018-04-09 14:59:26,754 INFO  [Log] Excel sheet opened 
-2018-04-09 14:59:26,754 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 14:59:29,441 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 14:59:29,448 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 14:59:34,379 INFO  [Log] Web application launched successfully 
-2018-04-09 14:59:34,400 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 14:59:36,414 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 14:59:36,414 INFO  [Log] X 
-2018-04-09 14:59:36,414 INFO  [Log] X 
-2018-04-09 14:59:36,414 INFO  [Log] X 
-2018-04-09 14:59:36,416 INFO  [Log] X 
-2018-04-09 15:00:57,592 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:00:57,593 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:00:57,593 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 15:00:57,593 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:00:57,593 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:00:57,946 INFO  [Log] Excel sheet opened 
-2018-04-09 15:00:57,946 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 15:01:00,634 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 15:01:00,641 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 15:01:06,156 INFO  [Log] Web application launched successfully 
-2018-04-09 15:01:06,177 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 15:01:08,344 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 15:01:08,344 INFO  [Log] X 
-2018-04-09 15:01:08,344 INFO  [Log] X 
-2018-04-09 15:01:08,344 INFO  [Log] X 
-2018-04-09 15:01:08,346 INFO  [Log] X 
-2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:03:22,724 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:03:23,090 INFO  [Log] Excel sheet opened 
-2018-04-09 15:03:23,090 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 15:03:25,784 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 15:03:25,792 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 15:03:30,846 INFO  [Log] Web application launched successfully 
-2018-04-09 15:03:30,864 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 15:03:33,128 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 15:03:33,128 INFO  [Log] X 
-2018-04-09 15:03:33,128 INFO  [Log] X 
-2018-04-09 15:03:33,129 INFO  [Log] X 
-2018-04-09 15:03:33,130 INFO  [Log] X 
-2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:05:18,308 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
-2018-04-09 15:05:18,686 INFO  [Log] Excel sheet opened 
-2018-04-09 15:05:18,686 INFO  [Log] Total number of Row used return as < 2 >. 
-2018-04-09 15:05:21,398 INFO  [Log] New Firefox driver instantiated 
-2018-04-09 15:05:21,406 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2018-04-09 15:05:27,071 INFO  [Log] Web application launched successfully 
-2018-04-09 15:05:27,090 INFO  [Log] Log In button is found on the Home Page 
-2018-04-09 15:05:28,896 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-04-09 15:05:28,896 INFO  [Log] X 
-2018-04-09 15:05:28,896 INFO  [Log] X 
-2018-04-09 15:05:28,896 INFO  [Log] X 
-2018-04-09 15:05:28,896 INFO  [Log] X 
+2018-04-09 15:49:20,423 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:49:20,423 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:49:20,423 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 15:49:20,423 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:49:20,424 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:49:20,803 INFO  [Log] Excel sheet opened 
+2018-04-09 15:49:20,803 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 15:49:23,484 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 15:49:23,490 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 15:49:28,477 INFO  [Log] Web application launched successfully 
+2018-04-09 15:49:28,496 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 15:49:30,568 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 15:49:30,608 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 15:49:30,624 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 15:49:31,870 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 15:49:31,870 INFO  [Log] X 
+2018-04-09 15:49:31,870 INFO  [Log] X 
+2018-04-09 15:49:31,870 INFO  [Log] X 
+2018-04-09 15:49:31,870 INFO  [Log] X 
+2018-04-09 16:01:56,344 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:01:56,344 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:01:56,344 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:01:56,344 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:01:56,344 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:01:56,718 INFO  [Log] Excel sheet opened 
+2018-04-09 16:01:56,719 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:01:59,396 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:01:59,407 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:02:03,511 INFO  [Log] Web application launched successfully 
+2018-04-09 16:02:03,528 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:02:05,642 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:02:05,650 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:02:05,681 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:02:05,688 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:02:05,705 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:02:05,712 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:02:11,373 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:02:11,397 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:02:21,897 ERROR [Log] Expected condition failed: waiting for element to be clickable: [[FirefoxDriver: firefox on XP (edf9254b-3584-4fa1-8247-d6fe19138461)] -> xpath: /html/body/header/div[1]/div/div[1]/ul/li[1]/a/span] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16048, moz:profile: C:\Users\vorko\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: edf9254b-3584-4fa1-8247-d6fe19138461 
+2018-04-09 16:02:21,902 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:02:21,902 INFO  [Log] X 
+2018-04-09 16:02:21,902 INFO  [Log] X 
+2018-04-09 16:02:21,902 INFO  [Log] X 
+2018-04-09 16:02:21,902 INFO  [Log] X 
+2018-04-09 16:17:20,758 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:17:20,759 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:17:20,759 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:17:20,759 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:17:20,759 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:17:21,129 INFO  [Log] Excel sheet opened 
+2018-04-09 16:17:21,129 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:17:23,847 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:17:23,854 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:17:34,160 INFO  [Log] Web application launched successfully 
+2018-04-09 16:17:34,181 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:17:36,309 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:17:36,320 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:17:36,353 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:17:36,359 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:17:36,377 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:17:36,383 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:17:37,616 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:17:37,621 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:17:48,125 ERROR [Log] Expected condition failed: waiting for element to be clickable: [[FirefoxDriver: firefox on XP (e2a1206f-526e-4d60-85b6-c8a74c2e7057)] -> xpath: /html/body/header/div[1]/div/div[1]/ul/li[1]/a/span] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5748, moz:profile: C:\Users\vorko\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: e2a1206f-526e-4d60-85b6-c8a74c2e7057 
+2018-04-09 16:17:48,130 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:17:48,130 INFO  [Log] X 
+2018-04-09 16:17:48,130 INFO  [Log] X 
+2018-04-09 16:17:48,130 INFO  [Log] X 
+2018-04-09 16:17:48,130 INFO  [Log] X 
+2018-04-09 16:23:57,726 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:23:57,726 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:23:57,727 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:23:57,727 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:23:57,727 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:23:58,086 INFO  [Log] Excel sheet opened 
+2018-04-09 16:23:58,086 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:24:00,788 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:24:00,795 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:24:10,588 INFO  [Log] Web application launched successfully 
+2018-04-09 16:24:10,608 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:24:12,556 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:24:12,564 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:24:12,595 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:24:12,601 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:24:12,617 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:24:12,622 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:24:13,759 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:24:13,781 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:24:24,298 ERROR [Log] Expected condition failed: waiting for element to be clickable: [[FirefoxDriver: firefox on XP (3cf984ca-c347-4b02-ab68-0498153746ee)] -> xpath: /html/body/header/div[1]/div/div[1]/ul/li[1]/a/span] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7240, moz:profile: C:\Users\vorko\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3cf984ca-c347-4b02-ab68-0498153746ee 
+2018-04-09 16:24:24,303 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:24:24,303 INFO  [Log] X 
+2018-04-09 16:24:24,303 INFO  [Log] X 
+2018-04-09 16:24:24,303 INFO  [Log] X 
+2018-04-09 16:24:24,303 INFO  [Log] X 
+2018-04-09 16:32:45,062 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:32:45,063 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:32:45,063 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:32:45,063 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:32:45,063 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:32:45,436 INFO  [Log] Excel sheet opened 
+2018-04-09 16:32:45,436 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:32:48,111 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:32:48,118 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:32:53,694 INFO  [Log] Web application launched successfully 
+2018-04-09 16:32:53,704 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:32:55,708 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:32:55,719 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:32:55,756 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:32:55,761 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:32:55,779 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:32:55,785 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:32:57,065 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:32:57,070 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:32:57,117 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:32:57,125 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:32:57,126 INFO  [Log] Click action is perfromed on LogOut button 
+2018-04-09 16:32:57,182 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:32:57,183 INFO  [Log] X 
+2018-04-09 16:32:57,183 INFO  [Log] X 
+2018-04-09 16:32:57,183 INFO  [Log] X 
+2018-04-09 16:32:57,183 INFO  [Log] X 
+2018-04-09 16:34:12,798 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:12,798 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:12,799 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:34:12,799 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:12,799 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:13,172 INFO  [Log] Excel sheet opened 
+2018-04-09 16:34:13,172 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:34:15,854 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:34:15,865 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:34:21,376 INFO  [Log] Web application launched successfully 
+2018-04-09 16:34:21,393 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:34:23,621 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:34:23,632 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:34:23,666 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:34:23,672 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:34:23,691 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:34:23,697 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:34:24,947 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:34:24,952 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:34:24,997 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:34:25,004 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:34:25,005 INFO  [Log] Click action is perfromed on LogOut button 
+2018-04-09 16:34:25,064 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:34:25,064 INFO  [Log] X 
+2018-04-09 16:34:25,064 INFO  [Log] X 
+2018-04-09 16:34:25,064 INFO  [Log] X 
+2018-04-09 16:34:25,064 INFO  [Log] X 
+2018-04-09 16:34:58,278 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:58,279 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:58,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:34:58,279 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:58,279 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:34:58,644 INFO  [Log] Excel sheet opened 
+2018-04-09 16:34:58,644 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:35:01,317 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:35:01,324 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:35:07,192 INFO  [Log] Web application launched successfully 
+2018-04-09 16:35:07,212 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:35:09,201 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:35:09,214 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:35:09,248 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:35:09,254 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:35:09,272 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:35:09,278 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:35:10,500 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:35:10,507 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:35:10,548 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:35:10,557 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:35:10,557 INFO  [Log] Click action is perfromed on LogOut button 
+2018-04-09 16:35:10,612 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:35:10,612 INFO  [Log] X 
+2018-04-09 16:35:10,612 INFO  [Log] X 
+2018-04-09 16:35:10,612 INFO  [Log] X 
+2018-04-09 16:35:10,612 INFO  [Log] X 
+2018-04-09 16:47:13,671 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:47:13,671 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:47:13,671 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:47:13,671 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:47:13,671 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:47:14,067 INFO  [Log] Excel sheet opened 
+2018-04-09 16:47:14,067 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:47:16,729 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:47:16,738 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:47:25,246 INFO  [Log] Web application launched successfully 
+2018-04-09 16:47:25,266 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:47:27,375 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:47:27,383 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:47:27,413 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:47:27,419 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:47:27,437 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:47:27,444 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:47:28,711 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:47:28,736 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:47:28,782 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:47:28,797 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-09 16:47:28,797 INFO  [Log] Click action is perfromed on LogOut button 
+2018-04-09 16:47:28,854 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:47:28,854 INFO  [Log] X 
+2018-04-09 16:47:28,854 INFO  [Log] X 
+2018-04-09 16:47:28,854 INFO  [Log] X 
+2018-04-09 16:47:28,854 INFO  [Log] X 
+2018-04-09 16:50:43,835 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:50:43,836 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:50:43,836 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:50:43,836 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:50:43,836 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:50:44,202 INFO  [Log] Excel sheet opened 
+2018-04-09 16:50:44,202 INFO  [Log] Total number of Row used return as < 1 >. 
+2018-04-09 16:50:46,603 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 16:50:46,606 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:50:51,472 INFO  [Log] Web application launched successfully 
+2018-04-09 16:50:51,492 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:50:54,086 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:50:54,101 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:50:54,130 INFO  [Log]  is entered in Email text box 
+2018-04-09 16:50:54,142 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:50:54,167 INFO  [Log]  is entered in Password text box 
+2018-04-09 16:50:54,178 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:50:54,219 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:51:03,644 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:51:07,728 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : chrome not reachable
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: d4f9aecad3bdbce360bbb5ab11ad2130 
+2018-04-09 16:51:07,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:51:07,732 INFO  [Log] X 
+2018-04-09 16:51:07,732 INFO  [Log] X 
+2018-04-09 16:51:07,732 INFO  [Log] X 
+2018-04-09 16:51:07,732 INFO  [Log] X 
+2018-04-09 16:52:35,259 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:52:35,259 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:52:35,260 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:52:35,260 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:52:35,260 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:52:35,697 INFO  [Log] Excel sheet opened 
+2018-04-09 16:52:35,697 INFO  [Log] Total number of Row used return as < 1 >. 
+2018-04-09 16:52:38,104 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 16:52:38,108 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:52:48,322 INFO  [Log] Web application launched successfully 
+2018-04-09 16:52:48,342 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:52:52,244 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:52:52,257 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:52:52,287 INFO  [Log]  is entered in Email text box 
+2018-04-09 16:52:52,299 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:52:52,326 INFO  [Log]  is entered in Password text box 
+2018-04-09 16:52:52,340 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:52:52,382 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:52:57,655 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:53:01,737 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : chrome not reachable
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 9af4336e832999dced9a0dd901057d44 
+2018-04-09 16:53:01,741 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:53:01,741 INFO  [Log] X 
+2018-04-09 16:53:01,741 INFO  [Log] X 
+2018-04-09 16:53:01,741 INFO  [Log] X 
+2018-04-09 16:53:01,741 INFO  [Log] X 
+2018-04-09 16:54:36,276 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:54:36,277 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:54:36,277 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:54:36,277 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:54:36,277 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:54:36,644 INFO  [Log] Excel sheet opened 
+2018-04-09 16:54:36,644 INFO  [Log] Total number of Row used return as < 1 >. 
+2018-04-09 16:54:39,025 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 16:54:39,029 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:54:45,908 INFO  [Log] Web application launched successfully 
+2018-04-09 16:54:45,928 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:54:47,550 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:54:47,565 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:54:47,597 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:54:47,621 INFO  [Log]  is entered in Email text box 
+2018-04-09 16:54:47,632 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:54:47,660 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:54:47,684 INFO  [Log]  is entered in Password text box 
+2018-04-09 16:54:47,697 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:54:47,744 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:54:56,277 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 16:55:00,351 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : chrome not reachable
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: c7b086ebfb2bf8777d7bb166163a9c31 
+2018-04-09 16:55:00,355 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:55:00,355 INFO  [Log] X 
+2018-04-09 16:55:00,355 INFO  [Log] X 
+2018-04-09 16:55:00,355 INFO  [Log] X 
+2018-04-09 16:55:00,355 INFO  [Log] X 
+2018-04-09 16:57:31,614 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:57:31,614 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:57:31,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:57:31,614 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:57:31,614 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:57:31,975 INFO  [Log] Excel sheet opened 
+2018-04-09 16:57:31,975 INFO  [Log] Total number of Row used return as < 1 >. 
+2018-04-09 16:57:34,377 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 16:57:34,381 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:57:42,067 INFO  [Log] Web application launched successfully 
+2018-04-09 16:57:42,088 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:57:44,050 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:57:44,063 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:57:44,098 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:57:44,154 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:57:44,165 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:57:44,194 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:57:44,227 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:57:44,239 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:57:45,392 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:58:05,446 ERROR [Log] nav-user button is not found on the Home Page 
+2018-04-09 16:58:05,898 ERROR [Log] no such element: Unable to locate element: {"method":"link text","selector":"WELCOME BACK,"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 07da9975b1541f7aa2aa87d2de35109f
+*** Element info: {Using=link text, value=WELCOME BACK,} 
+2018-04-09 16:58:05,907 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:58:05,907 INFO  [Log] X 
+2018-04-09 16:58:05,907 INFO  [Log] X 
+2018-04-09 16:58:05,907 INFO  [Log] X 
+2018-04-09 16:58:05,907 INFO  [Log] X 
+2018-04-09 16:58:50,104 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:58:50,105 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:58:50,105 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 16:58:50,105 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:58:50,105 INFO  [Log] **************************************************************************************** 
+2018-04-09 16:58:50,495 INFO  [Log] Excel sheet opened 
+2018-04-09 16:58:50,495 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 16:58:53,180 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 16:58:53,190 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 16:58:57,699 INFO  [Log] Web application launched successfully 
+2018-04-09 16:58:57,722 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 16:58:59,596 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 16:58:59,607 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:58:59,646 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 16:58:59,673 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 16:58:59,679 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:58:59,704 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 16:58:59,719 INFO  [Log] test is entered in Password text box 
+2018-04-09 16:58:59,724 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 16:59:01,169 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 16:59:03,233 ERROR [Log] nav-user button is not found on the Home Page 
+2018-04-09 16:59:03,506 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 1868, moz:profile: C:\Users\vorko\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 10925a12-4603-465e-9eba-31f2735440a3 
+2018-04-09 16:59:03,511 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 16:59:03,511 INFO  [Log] X 
+2018-04-09 16:59:03,511 INFO  [Log] X 
+2018-04-09 16:59:03,511 INFO  [Log] X 
+2018-04-09 16:59:03,511 INFO  [Log] X 
+2018-04-09 17:02:23,732 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:02:23,732 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:02:23,732 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:02:23,732 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:02:23,732 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:02:24,116 INFO  [Log] Excel sheet opened 
+2018-04-09 17:02:24,116 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:02:26,784 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 17:02:26,793 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:02:27,426 INFO  [Log] Web application launched successfully 
+2018-04-09 17:02:27,464 ERROR [Log] Log In button is not found on the Home Page 
+2018-04-09 17:02:27,639 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 13724, moz:profile: C:\Users\vorko\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 08bdd43a-0d98-470b-871e-324f6106f4d9 
+2018-04-09 17:02:27,643 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:02:27,643 INFO  [Log] X 
+2018-04-09 17:02:27,643 INFO  [Log] X 
+2018-04-09 17:02:27,643 INFO  [Log] X 
+2018-04-09 17:02:27,643 INFO  [Log] X 
+2018-04-09 17:05:24,315 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:05:24,315 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:05:24,315 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:05:24,315 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:05:24,315 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:05:24,688 INFO  [Log] Excel sheet opened 
+2018-04-09 17:05:24,688 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:05:27,092 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 17:05:27,097 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:05:29,605 INFO  [Log] Web application launched successfully 
+2018-04-09 17:05:29,629 ERROR [Log] Log In button is not found on the Home Page 
+2018-04-09 17:05:29,732 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 9ab6b5af71c3931930c0ff397489d068 
+2018-04-09 17:05:29,740 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:05:29,740 INFO  [Log] X 
+2018-04-09 17:05:29,740 INFO  [Log] X 
+2018-04-09 17:05:29,740 INFO  [Log] X 
+2018-04-09 17:05:29,740 INFO  [Log] X 
+2018-04-09 17:06:30,808 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:06:30,808 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:06:30,808 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:06:30,808 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:06:30,808 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:06:31,183 INFO  [Log] Excel sheet opened 
+2018-04-09 17:06:31,183 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:06:33,849 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 17:06:33,855 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:06:34,359 INFO  [Log] Web application launched successfully 
+2018-04-09 17:06:34,453 ERROR [Log] Log In button is not found on the Home Page 
+2018-04-09 17:06:34,518 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Tried to run command without establishing a connection
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5780, moz:profile: C:\Users\vorko\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: b506a914-b549-4c2d-a62a-014855a9b64f 
+2018-04-09 17:06:34,522 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:06:34,522 INFO  [Log] X 
+2018-04-09 17:06:34,522 INFO  [Log] X 
+2018-04-09 17:06:34,522 INFO  [Log] X 
+2018-04-09 17:06:34,522 INFO  [Log] X 
+2018-04-09 17:09:10,408 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:10,408 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:10,408 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Chrome       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:09:10,408 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:10,408 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:10,767 INFO  [Log] Excel sheet opened 
+2018-04-09 17:09:10,767 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:09:13,172 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 17:09:13,175 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:09:19,731 INFO  [Log] Web application launched successfully 
+2018-04-09 17:09:19,750 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 17:09:21,859 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 17:09:21,875 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:09:21,909 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:09:21,945 INFO  [Log] Email is entered in Email text box 
+2018-04-09 17:09:21,958 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:09:21,986 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:09:22,028 INFO  [Log] Password is entered in Password text box 
+2018-04-09 17:09:22,040 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 17:09:22,086 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 17:09:44,101 INFO  [Log] nav-user button is found on the Home Page 
+2018-04-09 17:09:48,179 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : chrome not reachable
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-18UHNB8', ip: '192.168.0.146', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\vorko\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 91cf292e9e5e7f2f64457cdd9948536a 
+2018-04-09 17:09:48,184 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:09:48,184 INFO  [Log] X 
+2018-04-09 17:09:48,184 INFO  [Log] X 
+2018-04-09 17:09:48,184 INFO  [Log] X 
+2018-04-09 17:09:48,184 INFO  [Log] X 
+2018-04-09 17:09:48,191 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:48,191 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:48,191 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Firefox       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:09:48,191 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:48,191 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:09:48,211 INFO  [Log] Excel sheet opened 
+2018-04-09 17:09:48,211 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:09:50,377 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 17:09:50,394 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:09:56,981 INFO  [Log] Web application launched successfully 
+2018-04-09 17:09:56,998 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 17:09:59,413 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 17:09:59,425 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:09:59,461 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:09:59,481 INFO  [Log] Email is entered in Email text box 
+2018-04-09 17:09:59,487 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:09:59,513 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:09:59,533 INFO  [Log] Password is entered in Password text box 
+2018-04-09 17:09:59,541 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 17:09:59,772 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 17:10:19,780 ERROR [Log] nav-user button is not found on the Home Page 
+2018-04-09 17:10:19,783 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:10:19,783 INFO  [Log] X 
+2018-04-09 17:10:19,783 INFO  [Log] X 
+2018-04-09 17:10:19,783 INFO  [Log] X 
+2018-04-09 17:10:19,783 INFO  [Log] X 
+2018-04-09 17:10:40,691 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:10:40,691 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:10:40,691 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Chrome       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:10:40,691 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:10:40,691 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:10:41,058 INFO  [Log] Excel sheet opened 
+2018-04-09 17:10:41,058 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:10:43,464 INFO  [Log] New Chrome driver instantiated 
+2018-04-09 17:10:43,468 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:10:49,400 INFO  [Log] Web application launched successfully 
+2018-04-09 17:10:49,421 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 17:10:51,579 INFO  [Log] Click action is perfromed on LogIn button 
+2018-04-09 17:10:51,592 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:10:51,625 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-09 17:10:51,676 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-09 17:10:51,688 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:10:51,720 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-09 17:10:51,755 INFO  [Log] test is entered in Password text box 
+2018-04-09 17:10:51,770 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-09 17:10:53,080 INFO  [Log] Click action is perfromed on SignIn button 
+2018-04-09 17:11:13,103 ERROR [Log] nav-user button is not found on the Home Page 
+2018-04-09 17:11:13,111 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:11:13,111 INFO  [Log] X 
+2018-04-09 17:11:13,111 INFO  [Log] X 
+2018-04-09 17:11:13,111 INFO  [Log] X 
+2018-04-09 17:11:13,111 INFO  [Log] X 
+2018-04-09 17:11:13,119 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:11:13,119 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:11:13,119 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Login_Firefox       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 17:11:13,119 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:11:13,119 INFO  [Log] **************************************************************************************** 
+2018-04-09 17:11:13,139 INFO  [Log] Excel sheet opened 
+2018-04-09 17:11:13,139 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 17:11:15,299 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 17:11:15,304 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 17:11:21,282 INFO  [Log] Web application launched successfully 
+2018-04-09 17:11:21,444 ERROR [Log] Log In button is not found on the Home Page 
+2018-04-09 17:11:21,446 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 17:11:21,446 INFO  [Log] X 
+2018-04-09 17:11:21,446 INFO  [Log] X 
+2018-04-09 17:11:21,446 INFO  [Log] X 
+2018-04-09 17:11:21,446 INFO  [Log] X 

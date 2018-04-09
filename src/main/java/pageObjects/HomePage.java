@@ -22,4 +22,25 @@ public class HomePage extends BaseClass {
         }
         return element;
     }
+
+    public static WebElement btn_navuser() throws Exception {
+        try {
+            element = driver.findElement(By.linkText("WELCOME BACK,"));
+            Log.info("nav-user button is found on the Home Page");
+        } catch (Exception e) {
+            Log.error("nav-user button is not found on the Home Page");
+            throw (e);
+        }
+        return element;
+    }
+    public static WebElement btn_LogOut() throws Exception {
+        try {
+            element = driver.findElement(By.linkText("Logout"));
+            Log.info("Log Out button is found on the Home Page");
+        } catch (Exception e) {
+            Log.error("Log Out button is not found on the Home Page");
+            throw (e);
+        }
+        return element;
+    }
 }

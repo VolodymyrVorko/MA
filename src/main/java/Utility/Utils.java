@@ -1,6 +1,8 @@
 package Utility;
 
 import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 import Utility.Constant;
@@ -60,7 +62,18 @@ public class Utils {
             throw (e);
         }
     }
-
+//    public static void mouseHoverAction(WebElement mainElement, String subElement){
+//
+//        Actions action = new Actions(driver);
+//        action.moveToElement(mainElement).perform();
+//        if(subElement.equals("")){
+//            action.moveToElement(driver.findElement(By.linkText("")));
+//            Log.info(" link is found ");
+//        }
+//        action.click();
+//        action.perform();
+//        Log.info("Click action is performed on the selected Product Type");
+//    }
 
     public static void waitForElement(WebElement element){
 
@@ -69,9 +82,10 @@ public class Utils {
     }
 
     public static void takeScreenshot(WebDriver driver, String sTestCaseName) throws Exception{
+        Date date = new Date();
         try{
             File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-            FileUtils.copyFile(scrFile, new File(Constant.Path_ScreenShot + sTestCaseName +".jpg"));
+            FileUtils.copyFile(scrFile, new File(Constant.Path_ScreenShot + sTestCaseName + new SimpleDateFormat("yyyy-MM-dd__HH_mm").format(date)+".jpg"));
         } catch (Exception e){
             Log.error("Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : "+e.getMessage());
             throw new Exception();

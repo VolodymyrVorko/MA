@@ -3,13 +3,15 @@ package TestCases;
 import Utility.Constant;
 import Utility.ExcelUtils;
 import Utility.Log;
+import appModules.LogInAction;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 import pageObjects.BaseClass;
-import pageObjects.HomePage;
 
-public class Sample {
+public class Login_Firefox {
     public WebDriver driver;
     private String sTestCaseName;
     private int iTestCaseRow;
@@ -27,9 +29,9 @@ public class Sample {
     }
 
     @Test
-    public void btn_logIn() throws Exception {
+    public void LogIn() throws Exception {
         try {
-            HomePage.btn_LogIn().click();
+            LogInAction.Execute(2);
             ExcelUtils.setCellData("Pass", iTestCaseRow, Constant.Col_Result);
         } catch (Exception e) {
             ExcelUtils.setCellData("Fail", iTestCaseRow, Constant.Col_Result);
