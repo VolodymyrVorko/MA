@@ -4,11 +4,11 @@
     <listeners>
         <listener class-name="Utility.Listener"></listener>
     </listeners>
-    <test name="Sample">
+    <test name="LogIn_LogOut">
         <classes>
             <!-- 	-->
-            <class name="TestCases.Login_Chrome"/>
-            <!--<class name="TestCases.Login_Firefox" />-->
+            <class name="TestCases.LogIn_LogOut_Chrome"/>
+            <!--<class name="TestCases.LogIn_LogOut_Firefox" />-->
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
