@@ -1,0 +1,117 @@
+2018-04-09 14:40:05,697 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:40:05,698 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:40:05,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 btn_LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 14:40:05,698 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:40:05,698 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:40:06,050 INFO  [Log] Excel sheet opened 
+2018-04-09 14:40:06,050 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 14:40:08,757 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 14:40:08,763 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 14:40:12,873 INFO  [Log] Web application launched successfully 
+2018-04-09 14:40:12,891 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 14:40:14,400 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 14:40:14,400 INFO  [Log] X 
+2018-04-09 14:40:14,400 INFO  [Log] X 
+2018-04-09 14:40:14,400 INFO  [Log] X 
+2018-04-09 14:40:14,402 INFO  [Log] X 
+2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:43:28,146 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:43:28,146 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:43:28,513 INFO  [Log] Excel sheet opened 
+2018-04-09 14:43:28,513 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 14:43:31,207 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 14:43:31,214 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 14:43:38,232 INFO  [Log] Web application launched successfully 
+2018-04-09 14:43:38,249 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 14:43:40,317 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 14:43:40,317 INFO  [Log] X 
+2018-04-09 14:43:40,317 INFO  [Log] X 
+2018-04-09 14:43:40,317 INFO  [Log] X 
+2018-04-09 14:43:40,318 INFO  [Log] X 
+2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:51:39,823 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                        $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:51:39,823 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:51:40,180 INFO  [Log] Excel sheet opened 
+2018-04-09 14:51:40,180 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 14:51:42,844 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 14:51:42,857 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 14:51:46,835 INFO  [Log] Web application launched successfully 
+2018-04-09 14:51:46,854 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 14:51:48,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 14:51:48,473 INFO  [Log] X 
+2018-04-09 14:51:48,473 INFO  [Log] X 
+2018-04-09 14:51:48,473 INFO  [Log] X 
+2018-04-09 14:51:48,475 INFO  [Log] X 
+2018-04-09 14:53:48,595 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
+2018-04-09 14:54:22,215 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
+2018-04-09 14:54:45,583 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
+2018-04-09 14:55:05,325 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
+2018-04-09 14:57:35,660 ERROR [Log] Class Utils | Method getTestCaseName | Exception desc : String index out of range: -1 
+2018-04-09 14:59:26,396 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:59:26,397 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:59:26,397 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                        $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 14:59:26,397 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:59:26,397 INFO  [Log] **************************************************************************************** 
+2018-04-09 14:59:26,754 INFO  [Log] Excel sheet opened 
+2018-04-09 14:59:26,754 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 14:59:29,441 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 14:59:29,448 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 14:59:34,379 INFO  [Log] Web application launched successfully 
+2018-04-09 14:59:34,400 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 14:59:36,414 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 14:59:36,414 INFO  [Log] X 
+2018-04-09 14:59:36,414 INFO  [Log] X 
+2018-04-09 14:59:36,414 INFO  [Log] X 
+2018-04-09 14:59:36,416 INFO  [Log] X 
+2018-04-09 15:00:57,592 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:00:57,593 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:00:57,593 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 15:00:57,593 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:00:57,593 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:00:57,946 INFO  [Log] Excel sheet opened 
+2018-04-09 15:00:57,946 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 15:01:00,634 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 15:01:00,641 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 15:01:06,156 INFO  [Log] Web application launched successfully 
+2018-04-09 15:01:06,177 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 15:01:08,344 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 15:01:08,344 INFO  [Log] X 
+2018-04-09 15:01:08,344 INFO  [Log] X 
+2018-04-09 15:01:08,344 INFO  [Log] X 
+2018-04-09 15:01:08,346 INFO  [Log] X 
+2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:03:22,724 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:03:22,724 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:03:23,090 INFO  [Log] Excel sheet opened 
+2018-04-09 15:03:23,090 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 15:03:25,784 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 15:03:25,792 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 15:03:30,846 INFO  [Log] Web application launched successfully 
+2018-04-09 15:03:30,864 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 15:03:33,128 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 15:03:33,128 INFO  [Log] X 
+2018-04-09 15:03:33,128 INFO  [Log] X 
+2018-04-09 15:03:33,129 INFO  [Log] X 
+2018-04-09 15:03:33,130 INFO  [Log] X 
+2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:05:18,308 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:05:18,308 INFO  [Log] **************************************************************************************** 
+2018-04-09 15:05:18,686 INFO  [Log] Excel sheet opened 
+2018-04-09 15:05:18,686 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-04-09 15:05:21,398 INFO  [Log] New Firefox driver instantiated 
+2018-04-09 15:05:21,406 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-09 15:05:27,071 INFO  [Log] Web application launched successfully 
+2018-04-09 15:05:27,090 INFO  [Log] Log In button is found on the Home Page 
+2018-04-09 15:05:28,896 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-09 15:05:28,896 INFO  [Log] X 
+2018-04-09 15:05:28,896 INFO  [Log] X 
+2018-04-09 15:05:28,896 INFO  [Log] X 
+2018-04-09 15:05:28,896 INFO  [Log] X 
