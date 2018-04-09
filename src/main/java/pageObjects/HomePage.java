@@ -22,11 +22,12 @@ public class HomePage extends BaseClass {
         }
         return element;
     }
-    public static WebElement txt_WLCBCK() throws Exception{
-        try{
+
+    public static WebElement txt_WLCBCK() throws Exception {
+        try {
             element = driver.findElement(By.xpath("/html/body/header/div[1]/div/div[1]"));
             Log.info("Text Welcome Back is found");
-        }catch (Exception e){
+        } catch (Exception e) {
             Log.error("Text Welcome Back is not found");
             throw (e);
         }

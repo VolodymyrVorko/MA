@@ -7,7 +7,7 @@
     <test name="Sample">
         <classes>
             <!-- 	-->
-            <class name="TestCases.Login_Chrome" />
+            <class name="TestCases.Login_Chrome"/>
             <!--<class name="TestCases.Login_Firefox" />-->
         </classes>
     </test> <!-- Test -->

@@ -4,13 +4,10 @@ import Utility.Constant;
 import Utility.ExcelUtils;
 import Utility.Log;
 import Utility.Utils;
-import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.Reporter;
 import pageObjects.HomePage;
 import pageObjects.LogInPage;
-
-import static Utility.Utils.driver;
 
 public class LogInAction {
 
@@ -32,5 +29,4 @@ public class LogInAction {
         Log.info("Welcome Back text is found");
         Reporter.log("LogIn Action is successfully perfomred");
     }
-
 }
