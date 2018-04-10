@@ -14,6 +14,7 @@ public class LogOutAction {
         Utils.waitForElement(HomePage.btn_LogOut());
         HomePage.btn_LogOut().click();
         Log.info("Click action is performed on LogOut button");
+        Log.info("LogOut Action is successfully performed and finished");
         Reporter.log("LogOut Action is successfully performed and finished");
     }
 }
