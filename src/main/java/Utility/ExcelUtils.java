@@ -27,7 +27,7 @@ public class ExcelUtils {
             throw (e);
         }
     }
-    //This method is to read the test data from the Excel cell, in this we are passing parameters as Row num and Col num
+    
     public static String getCellData(int RowNum, int ColNum) throws Exception{
         try{
             Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
@@ -37,7 +37,7 @@ public class ExcelUtils {
             return"";
         }
     }
-    //This method is to write in the Excel cell, Row num and Col num are the parameters
+    
     @SuppressWarnings("static-access")
     public static void setCellData(String Result,  int RowNum, int ColNum) throws Exception    {
         try{
@@ -49,7 +49,7 @@ public class ExcelUtils {
             } else {
                 Cell.setCellValue(Result);
             }
-            // Constant variables Test Data path and Test Data file name
+            
             FileOutputStream fileOut = new FileOutputStream(Constant.Path_TestData + Constant.File_TestData);
             ExcelWBook.write(fileOut);
             fileOut.flush();
