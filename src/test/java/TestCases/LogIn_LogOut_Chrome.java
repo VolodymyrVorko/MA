@@ -9,8 +9,6 @@ import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.*;
 import pageObjects.BaseClass;
-import pageObjects.HomePage;
-import pageObjects.LogInPage;
 
 public class LogIn_LogOut_Chrome {
     public WebDriver driver;
