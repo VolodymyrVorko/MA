@@ -2,13 +2,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" parallel="classes">
     <listeners>
-        <listener class-name="Utility.Listener"></listener>
-        <listener class-name="Utility.Listeners"></listener>
-        <listener class-name="org.testng.reporters.EmailableReporter2" />
+        <listener class-name="Utility.Listener"/>
+        <listener class-name="Utility.Listeners"/>
+        <listener class-name="Utility.EmailableReporter2" />
     </listeners>
     <test name="LogIn_LogOut">
         <classes>
-            <!--<class name="TestCases.LogIn_LogOut_Chrome"/>-->
+            <class name="TestCases.LogIn_LogOut_Chrome"/>
             <class name="TestCases.LogIn_LogOut_Firefox" />
         </classes>
     </test>
