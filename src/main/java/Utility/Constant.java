@@ -14,4 +14,5 @@ public class Constant {
     public static final int Col_Password = 3;
     public static final int Col_Result = 4;
     public static final String Path_ScreenShot = "C:\\Users\\vorko\\IdeaProjects\\MechanicAdvisor\\src\\Screenshots\\";
+
 }
