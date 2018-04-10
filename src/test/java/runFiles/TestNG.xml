@@ -8,7 +8,7 @@
     </listeners>
     <test name="LogIn_LogOut">
         <classes>
-            <class name="TestCases.LogIn_LogOut_Chrome"/>
+            <!--<class name="TestCases.LogIn_LogOut_Chrome"/>-->
             <class name="TestCases.LogIn_LogOut_Firefox" />
         </classes>
     </test>
