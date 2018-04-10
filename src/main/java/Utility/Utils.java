@@ -27,7 +27,7 @@ public class Utils {
         try{
             sBrowserName = ExcelUtils.getCellData(iTestCaseRow, Constant.Col_Browser);
             if(sBrowserName.equals("Firefox")){
-                System.setProperty("webdriver.gecko.driver", "C:\\Users\\vorko\\IdeaProjects\\MechanicAdvisor\\Lib\\Drivers\\geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "Lib/Drivers/geckodriver.exe");
                 driver = new FirefoxDriver();
                 Log.info("New Firefox driver instantiated");
                 driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -35,7 +35,7 @@ public class Utils {
                 driver.get(Constant.URL);
                 Log.info("Web application launched successfully");
             }else if (sBrowserName.equals("Chrome")){
-                System.setProperty("webdriver.chrome.driver", "C:\\Users\\vorko\\IdeaProjects\\MechanicAdvisor\\Lib\\Drivers\\chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "Lib/Drivers/chromedriver.exe");
                 driver = new ChromeDriver();
                 Log.info("New Chrome driver instantiated");
                 driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
