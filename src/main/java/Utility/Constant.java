@@ -1,9 +1,9 @@
 package Utility;
 
 public class Constant {
-    public static final String URL = "https://mechanic.boston/";
-    public static final String Email = "qa@byteant.com";
-    public static final String Password ="test";
+    public static final String URL = "";
+    public static final String Email = "";
+    public static final String Password ="";
     public static final String Path_TestData = "C:\\Users\\vorko\\IdeaProjects\\MechanicAdvisor\\src\\testData\\";
     public static final String File_TestData = "TestData.xlsx";
 
