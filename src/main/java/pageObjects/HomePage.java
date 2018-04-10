@@ -26,9 +26,9 @@ public class HomePage extends BaseClass {
     public static WebElement btn_navuser() throws Exception {
         try {
             element = driver.findElement(By.className("nav-user"));
-            Log.info("Text Welcome Back is found");
+            Log.info("Button Nav-User is found");
         } catch (Exception e) {
-            Log.error("Text Welcome Back is not found");
+            Log.error("Button Nav-User is not found");
             throw (e);
         }
         return element;

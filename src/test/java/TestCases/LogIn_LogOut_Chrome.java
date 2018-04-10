@@ -30,7 +30,7 @@ public class LogIn_LogOut_Chrome {
     }
 
     @Test
-    public void LogIn() throws Exception {
+    public void LogIn_LogOut() throws Exception {
         try {
             LogInAction.Execute(1);
             LogOutAction.Execute();

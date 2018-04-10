@@ -26,7 +26,7 @@ public class Listener implements ITestListener, IInvokedMethodListener {
     }
 
     private void printTestResults(ITestResult result) {
-        Reporter.log("TestName = " + result.getTestName(), true);
+        Reporter.log("Test Name = " + result.getName(), true);
         Reporter.log("Test Method resides in " + result.getTestClass().getName(), true);
         if (result.getParameters().length != 0) {
             String params = null;

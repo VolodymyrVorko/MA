@@ -24,6 +24,7 @@ public class LogInAction {
         Log.info(sPassword + " is entered in Password text box");
         LogInPage.btn_SignIn().click();
         Log.info("Click action is performed on SignIn button");
+        Log.info("LogIn Action is successfully performed and finished");
         Reporter.log("LogIn Action is successfully performed and finished");
     }
 }
