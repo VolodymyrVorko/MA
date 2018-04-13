@@ -34,7 +34,7 @@ public class ExcelUtils {
             String CellData = Cell.getStringCellValue();
             return CellData;
         }catch (Exception e){
-            return"";
+            throw (e);
         }
     }
     
