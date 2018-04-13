@@ -19,22 +19,21 @@ import org.testng.ISuite;
 import org.testng.ISuiteResult;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
-import org.testng.Reporter;
 import org.testng.collections.Lists;
 import org.testng.internal.Utils;
 import org.testng.log4testng.Logger;
 import org.testng.xml.XmlSuite;
 
-public class EmailableReporter2 implements IReporter {
-    private static final Logger LOG = Logger.getLogger(EmailableReporter2.class);
+public class Reporter implements IReporter {
+    private static final Logger LOG = Logger.getLogger(Reporter.class);
     protected PrintWriter writer;
-    protected final List<EmailableReporter2.SuiteResult> suiteResults = Lists.newArrayList();
+    protected final List<Reporter.SuiteResult> suiteResults = Lists.newArrayList();
     Date date = new Date();
     private final StringBuilder buffer = new StringBuilder();
     private String fileName = "Test-report" + new SimpleDateFormat("yyyy-MM-dd__HH_mm").format(date) + ".html";
     private static final String JVM_ARG = "emailable.report2.name";
 
-    public EmailableReporter2() {
+    public Reporter() {
     }
 
     public void setFileName(String var1) {
@@ -57,7 +56,7 @@ public class EmailableReporter2 implements IReporter {
 
         while(var4.hasNext()) {
             ISuite var5 = (ISuite)var4.next();
-            this.suiteResults.add(new EmailableReporter2.SuiteResult(var5));
+            this.suiteResults.add(new Reporter.SuiteResult(var5));
         }
 
         this.writeDocumentStart();
@@ -144,13 +143,13 @@ public class EmailableReporter2 implements IReporter {
         Iterator var9 = this.suiteResults.iterator();
 
         while(var9.hasNext()) {
-            EmailableReporter2.SuiteResult var10 = (EmailableReporter2.SuiteResult)var9.next();
+            Reporter.SuiteResult var10 = (Reporter.SuiteResult)var9.next();
             this.writer.print("<tr><th colspan=\"7\">");
             this.writer.print(Utils.escapeHtml(var10.getSuiteName()));
             this.writer.println("</th></tr>");
 
             for(Iterator var11 = var10.getTestResults().iterator(); var11.hasNext(); ++var8) {
-                EmailableReporter2.TestResult var12 = (EmailableReporter2.TestResult)var11.next();
+                Reporter.TestResult var12 = (Reporter.TestResult)var11.next();
                 int var13 = var12.getPassedTestCount();
                 int var14 = var12.getSkippedTestCount();
                 int var15 = var12.getFailedTestCount();
@@ -206,13 +205,13 @@ public class EmailableReporter2 implements IReporter {
         Iterator var3 = this.suiteResults.iterator();
 
         while(var3.hasNext()) {
-            EmailableReporter2.SuiteResult var4 = (EmailableReporter2.SuiteResult)var3.next();
+            Reporter.SuiteResult var4 = (Reporter.SuiteResult)var3.next();
             this.writer.print("<tbody><tr><th colspan=\"4\">");
             this.writer.print(Utils.escapeHtml(var4.getSuiteName()));
             this.writer.print("</th></tr></tbody>");
 
             for(Iterator var5 = var4.getTestResults().iterator(); var5.hasNext(); ++var1) {
-                EmailableReporter2.TestResult var6 = (EmailableReporter2.TestResult)var5.next();
+                Reporter.TestResult var6 = (Reporter.TestResult)var5.next();
                 this.writer.printf("<tbody id=\"t%d\">", var1);
                 String var7 = Utils.escapeHtml(var6.getTestName());
                 int var8 = var2;
@@ -232,7 +231,7 @@ public class EmailableReporter2 implements IReporter {
         this.writer.println("</table>");
     }
 
-    private int writeScenarioSummary(String var1, List<EmailableReporter2.ClassResult> var2, String var3, int var4) {
+    private int writeScenarioSummary(String var1, List<Reporter.ClassResult> var2, String var3, int var4) {
         int var5 = 0;
         if (!var2.isEmpty()) {
             this.writer.print("<tr><th colspan=\"4\">");
@@ -242,14 +241,14 @@ public class EmailableReporter2 implements IReporter {
             int var7 = 0;
 
             for(Iterator var8 = var2.iterator(); var8.hasNext(); ++var7) {
-                EmailableReporter2.ClassResult var9 = (EmailableReporter2.ClassResult)var8.next();
+                Reporter.ClassResult var9 = (Reporter.ClassResult)var8.next();
                 String var10 = var3 + (var7 % 2 == 0 ? "even" : "odd");
                 this.buffer.setLength(0);
                 int var11 = 0;
                 int var12 = 0;
 
                 for(Iterator var13 = var9.getMethodResults().iterator(); var13.hasNext(); ++var12) {
-                    EmailableReporter2.MethodResult var14 = (EmailableReporter2.MethodResult)var13.next();
+                    Reporter.MethodResult var14 = (Reporter.MethodResult)var13.next();
                     List var15 = var14.getResults();
                     int var16 = var15.size();
 
@@ -296,11 +295,11 @@ public class EmailableReporter2 implements IReporter {
         Iterator var2 = this.suiteResults.iterator();
 
         while(var2.hasNext()) {
-            EmailableReporter2.SuiteResult var3 = (EmailableReporter2.SuiteResult)var2.next();
+            Reporter.SuiteResult var3 = (Reporter.SuiteResult)var2.next();
 
-            EmailableReporter2.TestResult var5;
+            Reporter.TestResult var5;
             for(Iterator var4 = var3.getTestResults().iterator(); var4.hasNext(); var1 += this.writeScenarioDetails(var5.getPassedTestResults(), var1)) {
-                var5 = (EmailableReporter2.TestResult)var4.next();
+                var5 = (Reporter.TestResult)var4.next();
                 this.writer.print("<h2>");
                 this.writer.print(Utils.escapeHtml(var5.getTestName()));
                 this.writer.print("</h2>");
@@ -313,17 +312,17 @@ public class EmailableReporter2 implements IReporter {
 
     }
 
-    private int writeScenarioDetails(List<EmailableReporter2.ClassResult> var1, int var2) {
+    private int writeScenarioDetails(List<Reporter.ClassResult> var1, int var2) {
         int var3 = var2;
         Iterator var4 = var1.iterator();
 
         while(var4.hasNext()) {
-            EmailableReporter2.ClassResult var5 = (EmailableReporter2.ClassResult)var4.next();
+            Reporter.ClassResult var5 = (Reporter.ClassResult)var4.next();
             String var6 = var5.getClassName();
             Iterator var7 = var5.getMethodResults().iterator();
 
             while(var7.hasNext()) {
-                EmailableReporter2.MethodResult var8 = (EmailableReporter2.MethodResult)var7.next();
+                Reporter.MethodResult var8 = (Reporter.MethodResult)var7.next();
                 List var9 = var8.getResults();
 
                 assert !var9.isEmpty();
@@ -374,7 +373,7 @@ public class EmailableReporter2 implements IReporter {
             var4 = true;
         }
 
-        List var12 = Reporter.getOutput(var3);
+        List var12 = org.testng.Reporter.getOutput(var3);
         if (!var12.isEmpty()) {
             this.writer.print("<tr><th");
             if (var6 > 1) {
@@ -433,7 +432,7 @@ public class EmailableReporter2 implements IReporter {
 
         assert var2.hasNext();
 
-        if (Reporter.getEscapeHtml()) {
+        if (org.testng.Reporter.getEscapeHtml()) {
             this.writer.print(Utils.escapeHtml((String)var2.next()));
         } else {
             this.writer.print((String)var2.next());
@@ -441,7 +440,7 @@ public class EmailableReporter2 implements IReporter {
 
         while(var2.hasNext()) {
             this.writer.print("<br/>");
-            if (Reporter.getEscapeHtml()) {
+            if (org.testng.Reporter.getEscapeHtml()) {
                 this.writer.print(Utils.escapeHtml((String)var2.next()));
             } else {
                 this.writer.print((String)var2.next());
@@ -499,9 +498,9 @@ public class EmailableReporter2 implements IReporter {
 
     protected static class ClassResult {
         private final String className;
-        private final List<EmailableReporter2.MethodResult> methodResults;
+        private final List<Reporter.MethodResult> methodResults;
 
-        public ClassResult(String var1, List<EmailableReporter2.MethodResult> var2) {
+        public ClassResult(String var1, List<Reporter.MethodResult> var2) {
             this.className = var1;
             this.methodResults = var2;
         }
@@ -510,7 +509,7 @@ public class EmailableReporter2 implements IReporter {
             return this.className;
         }
 
-        public List<EmailableReporter2.MethodResult> getMethodResults() {
+        public List<Reporter.MethodResult> getMethodResults() {
             return this.methodResults;
         }
     }
@@ -527,11 +526,11 @@ public class EmailableReporter2 implements IReporter {
             }
         };
         private final String testName;
-        private final List<EmailableReporter2.ClassResult> failedConfigurationResults;
-        private final List<EmailableReporter2.ClassResult> failedTestResults;
-        private final List<EmailableReporter2.ClassResult> skippedConfigurationResults;
-        private final List<EmailableReporter2.ClassResult> skippedTestResults;
-        private final List<EmailableReporter2.ClassResult> passedTestResults;
+        private final List<Reporter.ClassResult> failedConfigurationResults;
+        private final List<Reporter.ClassResult> failedTestResults;
+        private final List<Reporter.ClassResult> skippedConfigurationResults;
+        private final List<Reporter.ClassResult> skippedTestResults;
+        private final List<Reporter.ClassResult> passedTestResults;
         private final int failedTestCount;
         private final int skippedTestCount;
         private final int passedTestCount;
@@ -559,7 +558,7 @@ public class EmailableReporter2 implements IReporter {
             this.excludedGroups = this.formatGroups(var1.getExcludedGroups());
         }
 
-        protected List<EmailableReporter2.ClassResult> groupResults(Set<ITestResult> var1) {
+        protected List<Reporter.ClassResult> groupResults(Set<ITestResult> var1) {
             List var2 = Lists.newArrayList();
             if (!var1.isEmpty()) {
                 List var3 = Lists.newArrayList();
@@ -580,12 +579,12 @@ public class EmailableReporter2 implements IReporter {
                     if (!var8.equals(var10)) {
                         assert !var4.isEmpty();
 
-                        var3.add(new EmailableReporter2.MethodResult(var4));
+                        var3.add(new Reporter.MethodResult(var4));
                         var4 = Lists.newArrayList();
 
                         assert !var3.isEmpty();
 
-                        var2.add(new EmailableReporter2.ClassResult(var8, var3));
+                        var2.add(new Reporter.ClassResult(var8, var3));
                         var3 = Lists.newArrayList();
                         var8 = var10;
                         var9 = var7.getMethod().getMethodName();
@@ -594,7 +593,7 @@ public class EmailableReporter2 implements IReporter {
                         if (!var9.equals(var11)) {
                             assert !var4.isEmpty();
 
-                            var3.add(new EmailableReporter2.MethodResult(var4));
+                            var3.add(new Reporter.MethodResult(var4));
                             var4 = Lists.newArrayList();
                             var9 = var11;
                         }
@@ -603,11 +602,11 @@ public class EmailableReporter2 implements IReporter {
 
                 assert !var4.isEmpty();
 
-                var3.add(new EmailableReporter2.MethodResult(var4));
+                var3.add(new Reporter.MethodResult(var4));
 
                 assert !var3.isEmpty();
 
-                var2.add(new EmailableReporter2.ClassResult(var8, var3));
+                var2.add(new Reporter.ClassResult(var8, var3));
             }
 
             return var2;
@@ -617,23 +616,23 @@ public class EmailableReporter2 implements IReporter {
             return this.testName;
         }
 
-        public List<EmailableReporter2.ClassResult> getFailedConfigurationResults() {
+        public List<Reporter.ClassResult> getFailedConfigurationResults() {
             return this.failedConfigurationResults;
         }
 
-        public List<EmailableReporter2.ClassResult> getFailedTestResults() {
+        public List<Reporter.ClassResult> getFailedTestResults() {
             return this.failedTestResults;
         }
 
-        public List<EmailableReporter2.ClassResult> getSkippedConfigurationResults() {
+        public List<Reporter.ClassResult> getSkippedConfigurationResults() {
             return this.skippedConfigurationResults;
         }
 
-        public List<EmailableReporter2.ClassResult> getSkippedTestResults() {
+        public List<Reporter.ClassResult> getSkippedTestResults() {
             return this.skippedTestResults;
         }
 
-        public List<EmailableReporter2.ClassResult> getPassedTestResults() {
+        public List<Reporter.ClassResult> getPassedTestResults() {
             return this.passedTestResults;
         }
 
@@ -679,7 +678,7 @@ public class EmailableReporter2 implements IReporter {
 
     protected static class SuiteResult {
         private final String suiteName;
-        private final List<EmailableReporter2.TestResult> testResults = Lists.newArrayList();
+        private final List<Reporter.TestResult> testResults = Lists.newArrayList();
 
         public SuiteResult(ISuite var1) {
             this.suiteName = var1.getName();
@@ -687,7 +686,7 @@ public class EmailableReporter2 implements IReporter {
 
             while(var2.hasNext()) {
                 ISuiteResult var3 = (ISuiteResult)var2.next();
-                this.testResults.add(new EmailableReporter2.TestResult(var3.getTestContext()));
+                this.testResults.add(new Reporter.TestResult(var3.getTestContext()));
             }
 
         }
@@ -696,7 +695,7 @@ public class EmailableReporter2 implements IReporter {
             return this.suiteName;
         }
 
-        public List<EmailableReporter2.TestResult> getTestResults() {
+        public List<Reporter.TestResult> getTestResults() {
             return this.testResults;
         }
     }
