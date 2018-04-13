@@ -7,9 +7,12 @@
         <listener class-name="Utility.Reporter" />
     </listeners>
     <test name="LogIn_LogOut">
-        <classes>
-            <class name="TestCases.LogIn_LogOut_Chrome"/>
-            <class name="TestCases.LogIn_LogOut_Firefox" />
-        </classes>
+        <packages>
+            <package name="TestCases.LogIn_LogOut"></package>
+        </packages>
+        <!--<classes>-->
+            <!--<class name="TestCases.LogIn_LogOut.Test_LogIn_LogOut_Chrome"/>-->
+            <!--<class name="TestCases.LogIn_LogOut.Test_LogIn_LogOut_Firefox" />-->
+        <!--</classes>-->
     </test>
 </suite>

@@ -1,4 +1,4 @@
-package TestCases;
+package TestCases.LogIn_LogOut;
 
 import Utility.Constant;
 import Utility.ExcelUtils;
@@ -7,10 +7,12 @@ import appModules.LogInAction;
 import appModules.LogOutAction;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 import pageObjects.BaseClass;
 
-public class LogIn_LogOut_Chrome {
+public class Test_LogIn_LogOut_Chrome_negative_email {
     public WebDriver driver;
     private String sTestCaseName;
     private int iTestCaseRow;
@@ -28,9 +30,9 @@ public class LogIn_LogOut_Chrome {
     }
 
     @Test
-    public void LogIn_LogOut() throws Exception {
+    public void Test_LogIn_LogOut_Chrome_negative_email() throws Exception {
         try {
-            LogInAction.Execute(1);
+            LogInAction.Execute(3);
             LogOutAction.Execute();
             ExcelUtils.setCellData("Pass", iTestCaseRow, Constant.Col_Result);
         } catch (Exception e) {
