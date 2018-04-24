@@ -1,19 +1,16 @@
-package TestCases.LogIn_LogOut;
+package TestCases.LogIn_LogOut.Chrome;
 
 import Utility.Constant;
 import Utility.ExcelUtils;
 import Utility.Log;
-import Utility.Utils;
 import appModules.LogInAction;
 import appModules.LogOutAction;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import pageObjects.BaseClass;
 
-public class Test_LogIn_LogOut_Firefox {
+public class Test_LogIn_LogOut_Chrome {
     public WebDriver driver;
     private String sTestCaseName;
     private int iTestCaseRow;
@@ -28,12 +25,13 @@ public class Test_LogIn_LogOut_Firefox {
         iTestCaseRow = ExcelUtils.getRowContains(sTestCaseName, Constant.Col_TestCaseName);
         driver = Utility.Utils.OpenBrowser(iTestCaseRow);
         new BaseClass(driver);
+
     }
 
     @Test
-    public void LogIn_LogOut() throws Exception {
+    public void Test_LogIn_LogOut_Chrome() throws Exception {
         try {
-            LogInAction.Execute(2);
+            LogInAction.Execute(1);
             LogOutAction.Execute();
             ExcelUtils.setCellData("Pass", iTestCaseRow, Constant.Col_Result);
         } catch (Exception e) {

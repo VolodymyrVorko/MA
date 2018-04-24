@@ -1,5 +1,7 @@
 package Utility;
 
+import java.awt.*;
+import java.awt.event.KeyEvent;
 import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -22,6 +24,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Utils {
     public static WebDriver driver = null;
+
     public static WebDriver OpenBrowser(int iTestCaseRow) throws Exception{
         String sBrowserName;
         try{
@@ -37,6 +40,7 @@ public class Utils {
             }else if (sBrowserName.equals("Chrome")){
                 System.setProperty("webdriver.chrome.driver", "Lib/Drivers/chromedriver.exe");
                 driver = new ChromeDriver();
+                driver.manage().window().maximize();
                 Log.info("New Chrome driver instantiated");
                 driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
                 Log.info("Implicit wait applied on the driver for 10 seconds");
@@ -62,18 +66,19 @@ public class Utils {
             throw (e);
         }
     }
-//    public static void mouseHoverAction(WebElement mainElement, String subElement){
-//
-//        Actions action = new Actions(driver);
-//        action.moveToElement(mainElement).perform();
-//        if(subElement.equals("")){
-//            action.moveToElement(driver.findElement(By.linkText("")));
-//            Log.info(" link is found ");
-//        }
-//        action.click();
-//        action.perform();
-//        Log.info("Click action is performed on the selected Product Type");
-//    }
+
+    public static void mouseHoverAction(WebElement mainElement, String subElement){
+
+        Actions action = new Actions(driver);
+        action.moveToElement(mainElement).perform();
+        if(subElement.equals("")){
+            action.moveToElement(driver.findElement(By.linkText("")));
+            Log.info(" link is found ");
+        }
+        action.click();
+        action.perform();
+        Log.info("Click action is performed on the selected Product Type");
+    }
 
     public static void waitForElement(WebElement element){
 
@@ -91,6 +96,14 @@ public class Utils {
             throw new Exception();
         }
     }
-
-
+    //for keys emulation
+    public static void Robot () throws AWTException {
+        Robot robot=new Robot();
+        robot.keyPress(KeyEvent.VK_ALT);
+        robot.keyPress(KeyEvent.VK_SPACE);
+        robot.keyPress(KeyEvent.VK_N);
+        robot.keyRelease(KeyEvent.VK_ALT);
+        robot.keyRelease(KeyEvent.VK_SPACE);
+        robot.keyRelease(KeyEvent.VK_N);
+    }
 }

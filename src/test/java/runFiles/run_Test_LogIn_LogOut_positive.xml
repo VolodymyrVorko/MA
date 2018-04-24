@@ -11,8 +11,8 @@
             <!--<package name="TestCases.LogIn_LogOut"></package>-->
         <!--</packages>-->
         <classes>
-            <class name="TestCases.LogIn_LogOut.Test_LogIn_LogOut_Chrome"/>
-            <class name="TestCases.LogIn_LogOut.Test_LogIn_LogOut_Firefox" />
+            <class name="TestCases.LogIn_LogOut.Chrome.Test_LogIn_LogOut_Chrome"/>
+            <class name="TestCases.LogIn_LogOut.Firefox.Test_LogIn_LogOut_Firefox" />
         </classes>
     </test>
 </suite>

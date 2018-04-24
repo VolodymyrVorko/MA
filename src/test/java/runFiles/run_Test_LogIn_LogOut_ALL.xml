@@ -8,7 +8,8 @@
     </listeners>
     <test name="LogIn_LogOut">
         <packages>
-            <package name="TestCases.LogIn_LogOut"></package>
+            <package name="TestCases.LogIn_LogOut.Chrome"></package>
+            <package name="TestCases.LogIn_LogOut.Firefox"></package>
         </packages>
         <!--<classes>-->
             <!--<class name="TestCases.LogIn_LogOut.Test_LogIn_LogOut_Chrome"/>-->
