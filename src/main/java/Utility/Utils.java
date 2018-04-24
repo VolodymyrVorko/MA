@@ -96,7 +96,7 @@ public class Utils {
             throw new Exception();
         }
     }
-    //for keys emulation
+
     public static void Robot () throws AWTException {
         Robot robot=new Robot();
         robot.keyPress(KeyEvent.VK_ALT);
