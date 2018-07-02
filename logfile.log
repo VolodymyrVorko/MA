@@ -1,0 +1,195 @@
+2018-04-25 12:25:10,840 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:25:10,840 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:25:10,840 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$             Test_LogIn_LogOut_Chrome         $$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-25 12:25:10,840 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:25:10,840 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:25:11,384 INFO  [Log] Excel sheet opened 
+2018-04-25 12:25:11,384 INFO  [Log] Total number of Row used return as < 6 >. 
+2018-04-25 12:25:15,061 INFO  [Log] New Chrome driver instantiated 
+2018-04-25 12:25:15,064 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-25 12:25:18,152 INFO  [Log] Web application launched successfully 
+2018-04-25 12:25:18,153 INFO  [Log] LogIn action started 
+2018-04-25 12:25:18,194 INFO  [Log] Log In button is found on the Home Page 
+2018-04-25 12:25:19,403 INFO  [Log] Click action is performed on LogIn button 
+2018-04-25 12:25:19,423 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:25:19,459 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:25:19,533 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-25 12:25:19,547 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:25:19,578 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:25:19,619 INFO  [Log] test is entered in Password text box 
+2018-04-25 12:25:19,638 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-25 12:25:21,132 INFO  [Log] Click action is performed on SignIn button 
+2018-04-25 12:25:21,132 INFO  [Log] LogIn Action is successfully performed and finished 
+2018-04-25 12:25:21,133 INFO  [Log] LogOut action started 
+2018-04-25 12:25:21,172 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:25:21,205 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:25:21,214 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:25:21,291 INFO  [Log] Click action is performed on Nav-User button 
+2018-04-25 12:25:21,305 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:25:21,333 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:25:22,685 INFO  [Log] Click action is performed on LogOut button 
+2018-04-25 12:25:22,685 INFO  [Log] LogOut Action is successfully performed and finished 
+2018-04-25 12:25:22,794 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-25 12:25:22,794 INFO  [Log] X 
+2018-04-25 12:25:22,794 INFO  [Log] X 
+2018-04-25 12:25:22,794 INFO  [Log] X 
+2018-04-25 12:25:22,794 INFO  [Log] X 
+2018-04-25 12:26:48,147 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:48,148 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:48,148 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$             Test_LogIn_LogOut_Chrome         $$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-25 12:26:48,148 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:48,148 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:48,646 INFO  [Log] Excel sheet opened 
+2018-04-25 12:26:48,646 INFO  [Log] Total number of Row used return as < 6 >. 
+2018-04-25 12:26:52,335 INFO  [Log] New Chrome driver instantiated 
+2018-04-25 12:26:52,338 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-25 12:26:55,498 INFO  [Log] Web application launched successfully 
+2018-04-25 12:26:55,507 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:55,507 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:55,507 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$             Test_LogIn_LogOut_Chrome         $$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-25 12:26:55,507 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:55,507 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:26:55,532 INFO  [Log] Excel sheet opened 
+2018-04-25 12:26:55,533 INFO  [Log] Total number of Row used return as < 6 >. 
+2018-04-25 12:26:58,591 INFO  [Log] New Chrome driver instantiated 
+2018-04-25 12:26:58,594 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-25 12:27:01,802 INFO  [Log] Web application launched successfully 
+2018-04-25 12:27:01,803 INFO  [Log] LogIn action started 
+2018-04-25 12:27:01,845 INFO  [Log] Log In button is found on the Home Page 
+2018-04-25 12:27:04,122 INFO  [Log] Click action is performed on LogIn button 
+2018-04-25 12:27:04,140 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:27:04,177 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:27:04,242 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-25 12:27:04,257 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:27:04,289 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:27:04,329 INFO  [Log] test is entered in Password text box 
+2018-04-25 12:27:04,347 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-25 12:27:05,877 INFO  [Log] Click action is performed on SignIn button 
+2018-04-25 12:27:05,877 INFO  [Log] LogIn Action is successfully performed and finished 
+2018-04-25 12:27:05,878 INFO  [Log] LogOut action started 
+2018-04-25 12:27:05,918 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:27:05,964 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:27:05,975 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:27:06,059 INFO  [Log] Click action is performed on Nav-User button 
+2018-04-25 12:27:06,073 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:27:06,103 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:27:07,471 INFO  [Log] Click action is performed on LogOut button 
+2018-04-25 12:27:07,471 INFO  [Log] LogOut Action is successfully performed and finished 
+2018-04-25 12:27:07,572 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-25 12:27:07,572 INFO  [Log] X 
+2018-04-25 12:27:07,572 INFO  [Log] X 
+2018-04-25 12:27:07,572 INFO  [Log] X 
+2018-04-25 12:27:07,572 INFO  [Log] X 
+2018-04-25 12:27:07,739 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-25 12:27:07,739 INFO  [Log] X 
+2018-04-25 12:27:07,739 INFO  [Log] X 
+2018-04-25 12:27:07,739 INFO  [Log] X 
+2018-04-25 12:27:07,739 INFO  [Log] X 
+2018-04-25 12:27:51,322 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:27:51,322 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:27:51,323 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$             Test_LogIn_LogOut_Chrome         $$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-25 12:27:51,323 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:27:51,323 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:27:51,745 INFO  [Log] Excel sheet opened 
+2018-04-25 12:27:51,745 INFO  [Log] Total number of Row used return as < 6 >. 
+2018-04-25 12:27:55,387 INFO  [Log] New Chrome driver instantiated 
+2018-04-25 12:27:55,389 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-25 12:27:58,301 INFO  [Log] Web application launched successfully 
+2018-04-25 12:27:58,302 INFO  [Log] LogIn action started 
+2018-04-25 12:27:58,336 INFO  [Log] Log In button is found on the Home Page 
+2018-04-25 12:27:59,473 INFO  [Log] Click action is performed on LogIn button 
+2018-04-25 12:27:59,489 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:27:59,528 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:27:59,586 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-25 12:27:59,599 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:27:59,632 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:27:59,671 INFO  [Log] test is entered in Password text box 
+2018-04-25 12:27:59,688 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-25 12:28:01,060 INFO  [Log] Click action is performed on SignIn button 
+2018-04-25 12:28:01,060 INFO  [Log] LogIn Action is successfully performed and finished 
+2018-04-25 12:28:01,061 INFO  [Log] LogOut action started 
+2018-04-25 12:28:01,096 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:28:01,129 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:28:01,138 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:28:01,209 INFO  [Log] Click action is performed on Nav-User button 
+2018-04-25 12:28:01,222 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:28:01,251 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:28:02,769 INFO  [Log] Click action is performed on LogOut button 
+2018-04-25 12:28:02,769 INFO  [Log] LogOut Action is successfully performed and finished 
+2018-04-25 12:28:02,861 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-25 12:28:02,861 INFO  [Log] X 
+2018-04-25 12:28:02,861 INFO  [Log] X 
+2018-04-25 12:28:02,861 INFO  [Log] X 
+2018-04-25 12:28:02,861 INFO  [Log] X 
+2018-04-25 12:28:03,027 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:28:03,027 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:28:03,027 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$             Test_LogIn_LogOut_Firefox         $$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-25 12:28:03,027 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:28:03,027 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:28:03,056 INFO  [Log] Excel sheet opened 
+2018-04-25 12:28:03,056 INFO  [Log] Total number of Row used return as < 6 >. 
+2018-04-25 12:28:05,759 INFO  [Log] New Firefox driver instantiated 
+2018-04-25 12:28:05,764 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-25 12:28:08,685 INFO  [Log] Web application launched successfully 
+2018-04-25 12:28:08,686 INFO  [Log] LogIn action started 
+2018-04-25 12:28:08,708 INFO  [Log] Log In button is found on the Home Page 
+2018-04-25 12:28:10,067 INFO  [Log] Click action is performed on LogIn button 
+2018-04-25 12:28:10,077 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:28:10,124 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:28:10,158 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-25 12:28:10,168 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:28:10,201 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:28:10,223 INFO  [Log] test is entered in Password text box 
+2018-04-25 12:28:10,231 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-25 12:28:11,555 INFO  [Log] Click action is performed on SignIn button 
+2018-04-25 12:28:11,555 INFO  [Log] LogIn Action is successfully performed and finished 
+2018-04-25 12:28:11,555 INFO  [Log] LogOut action started 
+2018-04-25 12:28:11,560 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:28:11,605 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:28:11,609 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:28:11,855 INFO  [Log] Click action is performed on Nav-User button 
+2018-04-25 12:28:11,859 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:28:11,890 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:28:13,314 INFO  [Log] Click action is performed on LogOut button 
+2018-04-25 12:28:13,314 INFO  [Log] LogOut Action is successfully performed and finished 
+2018-04-25 12:28:13,339 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-25 12:28:13,339 INFO  [Log] X 
+2018-04-25 12:28:13,339 INFO  [Log] X 
+2018-04-25 12:28:13,339 INFO  [Log] X 
+2018-04-25 12:28:13,339 INFO  [Log] X 
+2018-04-25 12:31:47,821 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:31:47,822 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:31:47,822 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$$$$             Test_LogIn_LogOut_Chrome         $$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-25 12:31:47,822 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:31:47,822 INFO  [Log] **************************************************************************************** 
+2018-04-25 12:31:48,350 INFO  [Log] Excel sheet opened 
+2018-04-25 12:31:48,350 INFO  [Log] Total number of Row used return as < 6 >. 
+2018-04-25 12:31:52,092 INFO  [Log] New Chrome driver instantiated 
+2018-04-25 12:31:52,095 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-04-25 12:31:55,062 INFO  [Log] Web application launched successfully 
+2018-04-25 12:31:55,064 INFO  [Log] LogIn action started 
+2018-04-25 12:31:55,107 INFO  [Log] Log In button is found on the Home Page 
+2018-04-25 12:31:56,415 INFO  [Log] Click action is performed on LogIn button 
+2018-04-25 12:31:56,432 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:31:56,471 INFO  [Log] LoginEmailAddress field is found on the Log in Page 
+2018-04-25 12:31:56,529 INFO  [Log] qa@byteant.com is entered in Email text box 
+2018-04-25 12:31:56,545 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:31:56,578 INFO  [Log] LoginPassword field is found on the Log in Page 
+2018-04-25 12:31:56,622 INFO  [Log] test is entered in Password text box 
+2018-04-25 12:31:56,639 INFO  [Log] SignIn button is found on the Log in Page 
+2018-04-25 12:31:58,168 INFO  [Log] Click action is performed on SignIn button 
+2018-04-25 12:31:58,168 INFO  [Log] LogIn Action is successfully performed and finished 
+2018-04-25 12:31:58,169 INFO  [Log] LogOut action started 
+2018-04-25 12:31:58,205 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:31:58,251 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:31:58,261 INFO  [Log] Button Nav-User is found 
+2018-04-25 12:31:58,342 INFO  [Log] Click action is performed on Nav-User button 
+2018-04-25 12:31:58,357 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:31:58,393 INFO  [Log] Log Out button is found on the Home Page 
+2018-04-25 12:31:59,806 INFO  [Log] Click action is performed on LogOut button 
+2018-04-25 12:31:59,806 INFO  [Log] LogOut Action is successfully performed and finished 
+2018-04-25 12:31:59,905 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-25 12:31:59,905 INFO  [Log] X 
+2018-04-25 12:31:59,905 INFO  [Log] X 
+2018-04-25 12:31:59,905 INFO  [Log] X 
+2018-04-25 12:31:59,905 INFO  [Log] X 
